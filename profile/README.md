@@ -6,11 +6,10 @@ We specialize in creating solutions that prioritize both function and beauty, en
 At Crossfield Tech, we are committed to delivering measurable results and powerful digital experiences.
 
 # Role Description
-We're looking for remote JavaScript developers who can wear multiple hats.\
+We're looking for remote software developers who can wear multiple hats.\
 This isn't a heads-down coding-only role. You'll build features, but also lead the technical direction of projects, communicate directly with clients, and make architecture decisions.\
 Some weeks are coding, other weeks are more about planning, client calls, and guiding the project forward.\
-JavaScript fundamentals are a must.\
-Experience with React, Node.js, or modern frameworks is a plus but not required.\
+Experience with Javascript, PHP, Python, .Net or modern frameworks is a plus but not required.\
 What matters most is that you can own a project, communicate clearly, and deliver.
 
 # Qualifications

@@ -20,9 +20,12 @@ Basic to intermediate experience with web development(Languages like HTML, CSS, 
 Reliable, detail-oriented, and organized
 
 # Details
-Remote\
+100% Remote(US citizen)\
 Long-term project\
 Start ASAP
 
 # To apply
 Please visit the website https://www.crossfield.tech/ and send resume.
+
+# Email
+contact@crossfield.tech
